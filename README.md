@@ -1,5 +1,5 @@
-Project: Google Homepage
+# Project: Google Homepage
 Learning Goals:
-    -Learn how to use git
-    -Basics of HTML/CSS
-    -Make use of Chrome DevTools
+* Learn how to use git
+* Basics of HTML/CSS
+* Make use of Chrome DevTools
